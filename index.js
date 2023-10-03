@@ -132,3 +132,5 @@ axios.get(URL)
     renderCardPanel(getFriendsByPage(1))
     renderPaginator(friends.length)
   })
+
+// try to test the remote
